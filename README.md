@@ -68,10 +68,19 @@ the many stuff in the game like shooting, stackable powerup, enemies, health, sc
 
 The following controls are bound in-game, for gameplay and testing.
 
+## Keyboard:
 | Key Binding | Function          |
 | ----------- | ----------------- |
 | W,A,S,D     | Standard movement |
 | Esc         | Pause             |
 | Left Click  | Shoot             |
+
+## Joystick:
+| Key Binding | Function          |
+| ---------------- | ----------------- |
+| Left Stick       | Standard movement |
+| Start / Options  | Pause             |
+| Right Trigger    | Shoot             |
+| A                | Confirm           |
 
 <br>
