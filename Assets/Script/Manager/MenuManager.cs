@@ -45,7 +45,9 @@ public class MenuManager : MonoBehaviour
 
     public void PauseSystem()
     {
-        if(!isMenu)
+        if (DeathScreen.activeSelf) return;
+
+        if (!isMenu)
         {
             Cursor.lockState = CursorLockMode.None;
             Cursor.visible = true;
@@ -65,6 +67,8 @@ public class MenuManager : MonoBehaviour
 
     public void Death()
     {
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
         DeathScreen.SetActive(true);
         manager.GetHighScore();
         am.playclip(am.deathfx);
