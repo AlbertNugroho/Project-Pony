@@ -45,7 +45,7 @@ the many stuff in the game like shooting, stackable powerup, enemies, health, sc
 ## 📂Files description
 
 ```
-├── Project-Pony                      # Contain everything needed for Project-Pony to work.
+├── Project-Pony                      # Contain everything needed for Super Pony Fighter X to work.
    ├── Assets                         # Contains every assets that have been worked with unity to create the game like the scripts and the art.
       ├── Models                      # Contains every models that is used.
       ├── Materials                   # Contains all the material for the game.
@@ -59,7 +59,7 @@ the many stuff in the game like shooting, stackable powerup, enemies, health, sc
       ├── Manifest.json               # Contains the lists of all the packages that your project depends on and their versions.
       ├── Packages-lock.json          # Contains packages that ensuring your project always uses the same versions of all dependencies and their sub-dependencies.
    ├── Project Settings               # Contains the configuration of your game to control the quality settings, icon, or even the cursor settings
-├── README.md                         # The description of Project-Pony file from About til the developers and the contribution for this game.
+├── README.md                         # The description of Super Pony Fighter X file from About til the developers and the contribution for this game.
 ```
 
 <br>
